@@ -17,3 +17,7 @@ Quickly use [P5.js](https://p5js.org) in your project.
   }
 	```
 - Done
+
+## Development
+
+To run a dev server, use `run.sh`. You will need to have Python installed.
